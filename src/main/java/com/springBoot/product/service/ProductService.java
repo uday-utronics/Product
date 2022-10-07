@@ -2,13 +2,14 @@ package com.springBoot.product.service;
 
 import com.springBoot.product.models.Product;
 import com.springBoot.product.models.ProductList;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@Service
+
+@Component
 public class ProductService {
 
 

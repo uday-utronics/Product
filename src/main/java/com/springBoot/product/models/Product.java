@@ -3,7 +3,7 @@ package com.springBoot.product.models;
 import lombok.*;
 
 import java.time.LocalDate;
-import java.util.Date;
+
 
 @Setter
 @Getter
